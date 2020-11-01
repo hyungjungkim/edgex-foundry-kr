@@ -1,2 +1,2 @@
 # edgex-foundry-kr
-EdgeX Foundry를 공부하며 한글로 정리해 둔 곳 입니다.
+EdgeX Foundry를 공부하며 홈페이지 내용을 한글로 정리하고 있습니다.
