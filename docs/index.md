@@ -3,4 +3,4 @@
 * ### [소개](about.md)
 * ### [로드맵](wiki_roadmap.md)
 
-원문 홈페이지: https://www.edgexfoundry.org/ & https://wiki.edgexfoundry.org/
+원문 홈페이지: [https://www.edgexfoundry.org/](https://www.edgexfoundry.org/) & [https://wiki.edgexfoundry.org/](https://wiki.edgexfoundry.org/)
