@@ -5,12 +5,12 @@
 Github Pages 형식으로 보기: https://hyungjungkim.github.io/edgex-foundry-kr
 
 # 홈페이지
-* [소개](about.md)
+* [소개](docs/about.md)
 
 # 문서
-* [소개](intro.md)
+* [소개](docs/intro.md)
 
 # 위키
-* [로드맵](wiki_roadmap.md)
+* [로드맵](docs/wiki_roadmap.md)
 
 * 문의 또는 요청: hyungjung.kim@outlook.com
