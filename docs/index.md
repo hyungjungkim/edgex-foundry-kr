@@ -10,3 +10,5 @@
 * [로드맵](wiki/roadmap.md)
 
 원문 홈페이지: [https://www.edgexfoundry.org/](https://www.edgexfoundry.org/) & [https://wiki.edgexfoundry.org/](https://wiki.edgexfoundry.org/)
+
+Contact: hyungjung.kim@outlook.com
