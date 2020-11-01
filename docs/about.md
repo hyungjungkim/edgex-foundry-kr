@@ -68,4 +68,4 @@
 1. **개발자 리소스**: 오픈 소스 프로젝트로서 코드에 접속하거나 메일링 리스트 및 토론 포럼에 참여하기 위해 회원가입이 필요하지 않습니다. 자세한 내용은 https://www.edgexfoundry.org/get-started/을 참조.
 1. **회원 되기**: 회원에게는 네트워킹, 인증 프로그램 개발에 의견 개진, 마케팅 기회 등 부가적인 기회가 제공됩니다. 자세한 내용은 http://edgexfoundry.org/about/members/join을 참조.
  
- 원문: https://www.edgexfoundry.org/about/
+원문: https://www.edgexfoundry.org/about/
