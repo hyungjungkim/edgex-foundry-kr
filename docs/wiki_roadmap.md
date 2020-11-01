@@ -28,4 +28,4 @@
 
 우리는 커뮤니티가 작업 그룹에 참여하여 전반적인 엣지X 로드맵을 구체화하고 프로젝트에 코드를 기여함으로써 원하는 기능을 빠르게 출시할 수 있도록 돕는 것을 환영합니다.
 
-원문: [https://wiki.edgexfoundry.org/display/FA/Roadmap](https://wiki.edgexfoundry.org/display/FA/Roadmap)
+원문: https://wiki.edgexfoundry.org/display/FA/Roadmap
