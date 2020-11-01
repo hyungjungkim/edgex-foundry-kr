@@ -17,7 +17,7 @@
   * 사용 사례(use-case)와 상관없는 일관된 소프트웨어 인프라를 통해 보안과 시스템 관리를 개선
 * IoT 간의 지속성과 상호운영성을 보장하기 위해 LF Edge, 연관된 오픈 소스 프로젝트, 표준 그룹, 산업 연합들과 협업
 
-**다른 주도적인 IoT 기술들 사이에 엣지X 파운드리의 위치는 어디인가?**
+**다른 주도적인 IoT 기술들 사이에 엣지X 파운드리의 위치는 어디쯤인가요?**
 
 ![](https://www.edgexfoundry.org/wp-content/uploads/sites/25/2017/04/EXF_Focused-at-IoT-Edge-1-1024x639.png)
 
