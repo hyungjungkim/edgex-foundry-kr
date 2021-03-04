@@ -1,2 +1,2 @@
 Useful links for EdgeX Foundry
-https://www.youtube.com/watch?v=tjdPWWEuCwI
+* StarlingX IoT Integration with EdgeX Foundry https://www.youtube.com/watch?v=tjdPWWEuCwI
